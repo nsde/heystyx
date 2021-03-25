@@ -1,3 +1,10 @@
+# UPDATED & NEWER VERSION:
+# https://github.com/nsde/neovision
+
+This project is no longer being supported. Please use NeoVision instead!
+
+***
+
 # HeyStyx: DEIN Chat-Bot für Discord
 Ein allgemeiner Discord-Bot, welcher einige APIs benutzt, um den Nutzern das bestmögliche Erlebnis zu bieten.
 Top-Funktionen: Wetter, News, Finanzen, Wikiepedia-Suche, Python-Befehle uvm.
